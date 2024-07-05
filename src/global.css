@@ -26,4 +26,6 @@ body {
   font-size: 14px;
   font-style: normal;
   font-variation-settings: "slnt" 0;
+  background-color: var(--background-color);
+  color: #000000;
 }

@@ -1,4 +1,5 @@
 :root {
+  font-size: 62.5%;
   --font-size-h1: 3.05em;
   --font-size-h2: 2.44em;
   --font-size-h3: 1.95em;
@@ -17,6 +18,12 @@
 	--edited-card-color: #f8bc39;
 	--deleted-card-color: #e70909;
 	--review-tomorrow-card-color: #50ccdd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {

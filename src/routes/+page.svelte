@@ -1,6 +1,10 @@
 <script>
   import '../global.css';
+  import Logo from '../components/Logo.svelte';
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<nav>
+  <Logo leftPadding='32px' topPadding='8px' />
+  <ul>
+  </ul>
+</nav>

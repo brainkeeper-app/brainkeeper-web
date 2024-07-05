@@ -7,6 +7,16 @@
   --font-size-body: 1em;
   --font-size-caption: 0.8em;
   --font-size-small-print: 0.64em;
+  --primary-color: #5e81f4;
+	--hint-text-color: #868f9b;
+	--text-color: #000;
+	--background-color: #f8f8ff;
+	--button-hover-color: #3a56b4;
+	--contrast-color: #e9e9ec;
+	--new-card-color: #5cb03e;
+	--edited-card-color: #f8bc39;
+	--deleted-card-color: #e70909;
+	--review-tomorrow-card-color: #50ccdd;
 }
 
 body {

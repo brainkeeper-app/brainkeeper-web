@@ -7,9 +7,11 @@
   a {
     /* Text Properties */
     text-decoration: none;
-    font-size: 1.4em; 
+    font-size: var(--font-size-body); 
     font-weight: 700;
     color: #f8f8ff;
+    
+    user-select: none;
 
     /* Layout Properties */
     display: inline-flex;
